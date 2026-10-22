@@ -1,0 +1,22 @@
+advanced_sql_analytics/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── migrations/
+│   └── 001_initial_schema.sql
+├── fixtures/
+│   └── 001_seed_data.sql
+├── queries/
+│   ├── 01_ctes_and_recursive_logic.sql
+│   ├── 02_window_functions.sql
+│   └── 03_joins_and_subqueries.sql
+├── tests/
+│   ├── run_all.sql
+│   ├── verify_constraints.sql
+│   └── verify_seed_counts.sql
+└── docs/
+    ├── expected-results.md
+    ├── github-setup.md
+    ├── query-catalog.md
+    ├── repository-structure.txt
+    └── submission-checklist.md

@@ -1,0 +1,8 @@
+# Local test output / generated evidence
+docs/local-test-output.txt
+*.log
+*.dump
+*.backup
+.env
+.vscode/
+.idea/
